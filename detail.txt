@@ -1,0 +1,5 @@
+the complete program detect car is indian or not
+by exptacting number plate of car
+if its a indian car it add image in indian_car it will add image in not_indian_car with the name of thre number plates
+also it will create a recod in MongoDB
+with 3 diff field with a id, state, country
